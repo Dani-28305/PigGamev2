@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-mergeDebugResources-30:\\layout\\texto_recycler.xml",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-main-33:\\layout\\texto_recycler.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-mergeDebugResources-30:\\layout\\nombres_dinamicos_activity.xml",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-main-33:\\layout\\nombres_dinamicos_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-mergeDebugResources-30:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-mergeDebugResources-30:\\layout\\jugs2_activity.xml",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-main-33:\\layout\\jugs2_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-mergeDebugResources-30:\\layout\\winner.xml",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-main-33:\\layout\\winner.xml"
+    },
+    {
+        "merged": "com.example.piggamev2.app-mergeDebugResources-30:/layout/winner.xml",
+        "source": "com.example.piggamev2.app-main-33:/layout/winner.xml"
+    }
+]

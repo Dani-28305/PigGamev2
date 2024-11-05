@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-debug-31:\\drawable_dice_icon_3.png.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-main-33:\\drawable\\dice_icon_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-debug-31:\\drawable_dice_icon_1.png.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-main-33:\\drawable\\dice_icon_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-debug-31:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-main-33:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-debug-31:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-main-33:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-debug-31:\\layout_texto_recycler.xml.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-main-33:\\layout\\texto_recycler.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-debug-31:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-main-33:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-debug-31:\\drawable_dice_icon_5.png.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-main-33:\\drawable\\dice_icon_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-debug-31:\\layout_jugs2_activity.xml.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-main-33:\\layout\\jugs2_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-debug-31:\\drawable_dice_icon_4.png.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-main-33:\\drawable\\dice_icon_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.piggamev2.app-debug-31:/layout_winner.xml.flat",
+        "source": "com.example.piggamev2.app-main-33:/layout/winner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-debug-31:\\drawable_dice_icon_2.png.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-main-33:\\drawable\\dice_icon_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-debug-31:\\layout_nombres_dinamicos_activity.xml.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-main-33:\\layout\\nombres_dinamicos_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-debug-31:\\drawable_cerdito.png.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-main-33:\\drawable\\cerdito.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-debug-31:\\drawable_dice_icon_6.png.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-main-33:\\drawable\\dice_icon_6.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-debug-31:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-main-33:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-debug-31:\\layout_winner.xml.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.7\\com.example.piggamev2.app-main-33:\\layout\\winner.xml"
+    }
+]
